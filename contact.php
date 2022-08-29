@@ -3,8 +3,8 @@
 	if (isset($_POST['email'])) {
 
 		// EDIT THE 2 LINES BELOW AS REQUIRED
-		$email_to = "hey@sarozpoddar.com.np";
-		$email_subject = "My offer for [Your Domain]";
+		$email_to = "nsplat+domain@gmail.com";
+		$email_subject = "My offer for sm3.com";
 
 
 		$name = $_POST['name']; // required
@@ -38,7 +38,7 @@
 <html lang="en">
 		<head>
 				<meta charset="utf-8">
-				<title>Sales Inquery || [Your Domain]</title>
+				<title>Sales Inquery || sm3.com</title>
 				<meta name="viewport" content="width=device-width, initial-scale=1.0">
 				<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
 				<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
@@ -58,11 +58,11 @@
 										<div class="row d-md-flex text-center justify-content-center text-primary action-icons">
 											<div class="col-sm-4">
 												<p><em class="ion-ios-telephone-outline icon-md"></em></p>
-												<p class="lead"><a href="tel:+[Your Phone]">+[Your Phone]</a></p>
+												<p class="lead"><a href="tel:+817083088185">+817083088185</a></p>
 											</div>
 											<div class="col-sm-4">
 												<p><em class="ion-ios-chatbubble-outline icon-md"></em></p>
-												<p class="lead"><a href="mailto:hello@example.com">email@[Your Domain].com</a></p>
+												<p class="lead"><a href="mailto:nsplat+domain@gmail.com">nsplat+domain@gmail.com</a></p>
 											</div>
 									</div>
 								</div>
